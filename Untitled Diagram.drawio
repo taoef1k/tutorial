@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T02:56:51.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.3" etag="JsayDmOOQr_crx5A8LP7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T02:57:48.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.3" etag="3JbgszhqARMlAckRba26" type="github">
   <diagram id="cROLNhJi18jyMTtRT4qv" name="Page-1">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-33" value="Decrypt email &amp;amp; fullname" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;fontStyle=1" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
           <mxGeometry x="27.5" y="530" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6nmaoUBlLYGYx-6xs3CL-48" value="Store data&lt;br&gt;(email, fullname) to incognito" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
+        <mxCell id="6nmaoUBlLYGYx-6xs3CL-48" value="Store data&lt;br&gt;(email, fullname &amp;amp; random password) to incognito" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
           <mxGeometry x="35" y="675" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-66" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nmaoUBlLYGYx-6xs3CL-21" source="6nmaoUBlLYGYx-6xs3CL-63" target="6nmaoUBlLYGYx-6xs3CL-65">
@@ -115,13 +115,13 @@
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-67" value="Get details data from database" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
           <mxGeometry x="300" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nmaoUBlLYGYx-6xs3CL-50" value="Store data (email, fullname &amp;amp; random password)&lt;br&gt;&amp;nbsp;to database" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
+        <mxCell id="6nmaoUBlLYGYx-6xs3CL-50" value="Store data (email, fullname)&lt;br&gt;&amp;nbsp;to database" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
           <mxGeometry x="35" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nmaoUBlLYGYx-6xs3CL-21" source="6nmaoUBlLYGYx-6xs3CL-48" target="6nmaoUBlLYGYx-6xs3CL-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6nmaoUBlLYGYx-6xs3CL-54" value="Update new password database" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
+        <mxCell id="6nmaoUBlLYGYx-6xs3CL-54" value="Update new password to cognito" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-21">
           <mxGeometry x="35" y="967" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
