@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T02:29:40.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.3" etag="EXFla7qdB8rHGGDATl9a" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T02:30:11.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.3" etag="U5h2wkUIex04-2u7cwEV" type="github">
   <diagram id="cROLNhJi18jyMTtRT4qv" name="Page-1">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-20" value="KADIN" style="swimlane;startSize=20;html=1;" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-19">
           <mxGeometry y="20" width="250" height="1270" as="geometry" />
         </mxCell>
-        <mxCell id="6nmaoUBlLYGYx-6xs3CL-26" value="Call authenticate API (Header: authorization keys, Payload Body: email, fullname encrypted)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00CC66;fontStyle=1" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-20">
+        <mxCell id="6nmaoUBlLYGYx-6xs3CL-26" value="Call authenticate API (Header: authorization keys, Payload Body: email, fullname encrypted)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#3333FF;fontStyle=1" vertex="1" parent="6nmaoUBlLYGYx-6xs3CL-20">
           <mxGeometry x="57.5" y="95" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6nmaoUBlLYGYx-6xs3CL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nmaoUBlLYGYx-6xs3CL-20" source="6nmaoUBlLYGYx-6xs3CL-28" target="6nmaoUBlLYGYx-6xs3CL-26">
